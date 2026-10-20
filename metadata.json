@@ -1,0 +1,6 @@
+{
+  "name": "Pengembaraan Ajaib",
+  "description": "Pengembaraan Ajaib: Misi Selamatkan Taman Bunga - A colourful, child-friendly side-scrolling platform adventure featuring Biji the seed across 5 magical garden worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
